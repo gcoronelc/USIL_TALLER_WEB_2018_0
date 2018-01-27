@@ -61,11 +61,9 @@
 
 ## Recursos Finales
 
-Código fuente de aplicaciones Java con la base de datos EUREKABANK
+Código fuente de aplicaciones Java con la base de datos EUREKABANK en ORACLE.
 
-![TALLER DE PROGRAMACION WEB](https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2018_0/master/Img/DesarrollaSoftware.png)
-
-- http://gcoronelc.blogspot.pe/2016/10/eureka-cs-oracle-jdbc.html
+- Java JDBC: http://gcoronelc.blogspot.pe/2016/10/eureka-cs-oracle-jdbc.html
 
 ![TALLER DE PROGRAMACION WEB](https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2018_0/master/Img/java-cs.png)
 
@@ -73,7 +71,7 @@ Código fuente de aplicaciones Java con la base de datos EUREKABANK
 
 ![TALLER DE PROGRAMACION WEB](https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2018_0/master/Img/java-web.png)
 
-- http://gcoronelc.blogspot.pe/2017/07/eureka-web-mysql-spring.html
+- Java Spring: http://gcoronelc.blogspot.pe/2017/07/eureka-web-mysql-spring.html
 
 ![TALLER DE PROGRAMACION WEB](https://raw.githubusercontent.com/gcoronelc/USIL_TPW_2018_0/master/Img/java-spring.png)
 
