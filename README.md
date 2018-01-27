@@ -61,7 +61,7 @@
 
 ## RECURSOS FINALES
 
-Código fuente de aplicaciones Java con la base de datos EUREKABANK en ORACLE.
+Código fuente de aplicaciones Java con la base de datos EUREKABANK.
 
 - Java JDBC: http://gcoronelc.blogspot.pe/2016/10/eureka-cs-oracle-jdbc.html
 
