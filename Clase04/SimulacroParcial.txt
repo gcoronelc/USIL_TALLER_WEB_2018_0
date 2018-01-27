@@ -1,0 +1,13 @@
+Requerimiento
+- Login
+- Programar curso
+
+
+idempleado
+clave
+apeempleado
+nomempleado
+cargo
+dirempleado
+telempleado
+emailempleado
