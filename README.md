@@ -32,7 +32,7 @@
 - Unit Test: https://youtu.be/6EqQWVQNwlw
 - Unit Test: https://youtu.be/B0jf0ENdFsY
 
-## Auto-Evaluación
+## AUTO-EVALUACIÓN
 
 - Enlace 1: http://cibertest.com/test-examen/11/java
 - Enlace 2: http://www.digitallearning.es/tests/java-poo.html
@@ -59,7 +59,7 @@
 - Enlace 23: http://www.whizlabs.com
 
 
-## Recursos Finales
+## RECURSOS FINALES
 
 Código fuente de aplicaciones Java con la base de datos EUREKABANK en ORACLE.
 
