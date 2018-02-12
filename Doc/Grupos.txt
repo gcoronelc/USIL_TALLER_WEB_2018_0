@@ -3,33 +3,39 @@ Grupo 01
 1.- JAIR ARCOS
 2.- ALICIA ANCASI
 3.- JHOANNA CAPUENA
+Req. Neg.: 01
 
 Grupo 02
 ======================
 1.- YOLANDA ASTO
 2.- LIZ POMA
 3.- DINA RIME
+Req. Neg.: 03
 
 Grupo 03
 ======================
 1.- AYAX JUAG
 2.- ROBER JEMPEKIT
 3.- GALVEZ PUJUPAT
+Req. Neg.: 04
 
 Grupo 04
 ======================
 1.- MENDOZA TOLENTINO
 2.- ALVARADO HALIRE
+Req. Neg.: 06
 
 Grupo 05
 ======================
 1.- JOSUE CASTILLO
 2.- JOSE FERNANDEZ
+Req. Neg.: 07
 
 Grupo 06: MAGDALENA
 ======================
 1.- REQUENA MERINO
 2.- SIXTO CHAVEZ
 3.- PEÑA RAVELO
+Req. Neg.: 08
 
 
